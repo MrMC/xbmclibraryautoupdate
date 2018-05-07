@@ -1,4 +1,4 @@
-# Kodi Media Center language file
+# MrMC Media Center language file
 # Addon Name: XBMC Library Auto Update
 # Addon id: service.libraryautoupdate
 # Addon Provider: robweber
@@ -22,13 +22,13 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid ""
-"Update your Kodi Video and Music Libraries on a timer. Timer runs as an Kodi"
+"Update your MrMC Video and Music Libraries on a timer. Timer runs as a MrMC"
 " service so you never miss an update."
 msgstr "עדכן את ספריות הוידאו והמוזיקה של קודי בעזרת שעון עצר שירוץ ברקע כשירות קודי כך שלא תפספס עדכון."
 
 msgctxt "Addon Description"
 msgid ""
-"This is an Kodi Service that will update your music and video libraries on a"
+"This is a MrMC Service that will update your music and video libraries on a"
 " timer. You can select a different interval to scan your media databases "
 "(Audio,Video,Both) or you can set a cron-style timer for greater control. If"
 " you are playing an audio or video file when the timer starts it can skip "
@@ -38,7 +38,7 @@ msgid ""
 msgstr "זהו שירות קושי שמעדכן את ספריות הוידאו ומוזיקה שלך בעזרת שעון עצר. ביכולתך לבחור לוחות זמנים שונים לסריקת מסדי הנתונים (אודיו, וידאו, שניהם) או להגדיר שעון עצר דמוי Cron לשליטה טובה יותר. כאשר מנוגן קובץ אודיו או וידאו, שעון עצר מסוגל לדלג על תהליך העדכון, עד לאחר תום הניגון, כך שחווית המדיה שלך לא תיפגם. נוספה תמיכה לעדכון נתיב וידאו ספציפי וניקוי ספריות המוזיקה/וידאו."
 
 msgctxt "#30000"
-msgid "Kodi Library Auto Update"
+msgid "MrMC Library Auto Update"
 msgstr "עדכון אוטומטי לספריית קודי"
 
 msgctxt "#30001"

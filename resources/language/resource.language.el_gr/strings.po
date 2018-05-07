@@ -1,4 +1,4 @@
-# Kodi Media Center language file
+# MrMC Media Center language file
 # Addon Name: XBMC Library Auto Update
 # Addon id: service.libraryautoupdate
 # Addon Provider: robweber
@@ -21,24 +21,24 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid ""
-"Update your Kodi Video and Music Libraries on a timer. Timer runs as an Kodi"
+"Update your MrMC Video and Music Libraries on a timer. Timer runs as a MrMC"
 " service so you never miss an update."
-msgstr "Ενημερώστε τις συλλογές ταινιών και μουσικής σας με χρονοδιακόπτη. Ο χρονοδιακόπτης εκτελείται σαν υπηρεσία του Kodi ούτως ώστε να μη χάνετε ποτέ καμία ενημέρωση."
+msgstr "Ενημερώστε τις συλλογές ταινιών και μουσικής σας με χρονοδιακόπτη. Ο χρονοδιακόπτης εκτελείται σαν υπηρεσία του MrMC ούτως ώστε να μη χάνετε ποτέ καμία ενημέρωση."
 
 msgctxt "Addon Description"
 msgid ""
-"This is an Kodi Service that will update your music and video libraries on a"
+"This is a MrMC Service that will update your music and video libraries on a"
 " timer. You can select a different interval to scan your media databases "
 "(Audio,Video,Both) or you can set a cron-style timer for greater control. If"
 " you are playing an audio or video file when the timer starts it can skip "
 "the library update process until it is completed so that you're media "
 "experience is not interrupted. Updating a specific Video Path, and Cleaning "
 "the Music/Video libraries is now supported."
-msgstr "Αυτή είναι μία Υπηρεσία του Kodi που ενημερώνει τις συλλογές ταινιών και μουσικής σας με χρονοδιακόπτη. Μπορείτε να επιλέξετε διαφορετικό χρονικό διάστημα για σάρωση των πολυμέσων σας (Μουσική, Βίντεο, Και Τα Δυο) ή μπορείτε να ορίσετε ένα χρονοδιακόπτη τύπου cron για καλύτερο έλεγχο. Αν αναπαράγεται μία ταινία ή ένα τραγούδι όταν αρχίσει ο χρονοδιακόπτης μπορεί να αναβληθεί η διαδικασία της ενημέρωσης της συλλογής μέχρις ότου τελειώσει, προκειμένου να μην επηρεαστεί η αναπαραγωγή. Πλέον υποστηρίζεται η ενημέρωση συγκεκριμένης Διαδρομής Βίντεο, καθώς και Εκκαθάριση των συλλογών Ταινιών/Μουσικής."
+msgstr "Αυτή είναι μία Υπηρεσία του MrMC που ενημερώνει τις συλλογές ταινιών και μουσικής σας με χρονοδιακόπτη. Μπορείτε να επιλέξετε διαφορετικό χρονικό διάστημα για σάρωση των πολυμέσων σας (Μουσική, Βίντεο, Και Τα Δυο) ή μπορείτε να ορίσετε ένα χρονοδιακόπτη τύπου cron για καλύτερο έλεγχο. Αν αναπαράγεται μία ταινία ή ένα τραγούδι όταν αρχίσει ο χρονοδιακόπτης μπορεί να αναβληθεί η διαδικασία της ενημέρωσης της συλλογής μέχρις ότου τελειώσει, προκειμένου να μην επηρεαστεί η αναπαραγωγή. Πλέον υποστηρίζεται η ενημέρωση συγκεκριμένης Διαδρομής Βίντεο, καθώς και Εκκαθάριση των συλλογών Ταινιών/Μουσικής."
 
 msgctxt "#30000"
-msgid "Kodi Library Auto Update"
-msgstr "Αυτόματη Ενημέρωση Συλλογής Kodi"
+msgid "MrMC Library Auto Update"
+msgstr "Αυτόματη Ενημέρωση Συλλογής MrMC"
 
 msgctxt "#30001"
 msgid "General"

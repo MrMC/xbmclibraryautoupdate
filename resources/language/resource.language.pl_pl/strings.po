@@ -1,4 +1,4 @@
-# Kodi Media Center language file
+# MrMC Media Center language file
 # Addon Name: XBMC Library Auto Update
 # Addon id: service.libraryautoupdate
 # Addon Provider: robweber
@@ -26,23 +26,23 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid ""
-"Update your Kodi Video and Music Libraries on a timer. Timer runs as an Kodi"
+"Update your MrMC Video and Music Libraries on a timer. Timer runs as a MrMC"
 " service so you never miss an update."
-msgstr "Automatycznie aktualizuj swoją bibliotekę wideo i muzyki. Harmonogram aktualizacji działa jako usługa Kodi, więc nigdy nie przegapisz niezbędnych aktualizacji."
+msgstr "Automatycznie aktualizuj swoją bibliotekę wideo i muzyki. Harmonogram aktualizacji działa jako usługa MrMC, więc nigdy nie przegapisz niezbędnych aktualizacji."
 
 msgctxt "Addon Description"
 msgid ""
-"This is an Kodi Service that will update your music and video libraries on a"
+"This is a MrMC Service that will update your music and video libraries on a"
 " timer. You can select a different interval to scan your media databases "
 "(Audio,Video,Both) or you can set a cron-style timer for greater control. If"
 " you are playing an audio or video file when the timer starts it can skip "
 "the library update process until it is completed so that you're media "
 "experience is not interrupted. Updating a specific Video Path, and Cleaning "
 "the Music/Video libraries is now supported."
-msgstr "Dodatek ten jest usługą Kodi, która aktualizuje bibliotekę muzyki i wideo. Pozwala określić częstotliwość skanowana bibliotek (Muzyki, Wideo lub obu) lub ustawić formułę w stylu Crona, w celu lepszej kontroli. Jeżeli odtwarzasz muzykę lub wideo, to aktualizacja biblioteki rozpocznie się dopiero po zakończeniu odtwarzania. Obsługiwana jest także aktualizacja wybranych ścieżek wideo oraz czyszczenie bibliotek muzyki i wideo."
+msgstr "Dodatek ten jest usługą MrMC, która aktualizuje bibliotekę muzyki i wideo. Pozwala określić częstotliwość skanowana bibliotek (Muzyki, Wideo lub obu) lub ustawić formułę w stylu Crona, w celu lepszej kontroli. Jeżeli odtwarzasz muzykę lub wideo, to aktualizacja biblioteki rozpocznie się dopiero po zakończeniu odtwarzania. Obsługiwana jest także aktualizacja wybranych ścieżek wideo oraz czyszczenie bibliotek muzyki i wideo."
 
 msgctxt "#30000"
-msgid "Kodi Library Auto Update"
+msgid "MrMC Library Auto Update"
 msgstr "Aktualizacja biblioteki"
 
 msgctxt "#30001"

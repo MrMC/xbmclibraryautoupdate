@@ -1,4 +1,4 @@
-# Kodi Media Center language file
+# MrMC Media Center language file
 # Addon Name: XBMC Library Auto Update
 # Addon id: service.libraryautoupdate
 # Addon Provider: robweber
@@ -21,24 +21,24 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid ""
-"Update your Kodi Video and Music Libraries on a timer. Timer runs as an Kodi"
+"Update your MrMC Video and Music Libraries on a timer. Timer runs as a MrMC"
 " service so you never miss an update."
-msgstr "Atnaujinkite savo Kodi vaizdo ir muzikos bibliotekas nustatytu laiku. Laikmatis veikia kaip Kodi paslauga, todėl jūs niekada nepraleisite atnaujinimo."
+msgstr "Atnaujinkite savo MrMC vaizdo ir muzikos bibliotekas nustatytu laiku. Laikmatis veikia kaip MrMC paslauga, todėl jūs niekada nepraleisite atnaujinimo."
 
 msgctxt "Addon Description"
 msgid ""
-"This is an Kodi Service that will update your music and video libraries on a"
+"This is a MrMC Service that will update your music and video libraries on a"
 " timer. You can select a different interval to scan your media databases "
 "(Audio,Video,Both) or you can set a cron-style timer for greater control. If"
 " you are playing an audio or video file when the timer starts it can skip "
 "the library update process until it is completed so that you're media "
 "experience is not interrupted. Updating a specific Video Path, and Cleaning "
 "the Music/Video libraries is now supported."
-msgstr "Tai Kodi paslauga, kuri atnaujins jūsų muzikos ir vaizdo bibliotekas nurodytu laiku. Jūs galite nurodyti skirtingus laiko intervalus media duomenų bazių skenavimui (garso, vaizdo, abiejų) arba galite nustatyti 'Cron' stiliaus laikmatį geresnei kontrolei. Jei laikmatis suveikia tuo metu, kai atkuriamas garso ar vaizdo failas, bibliotekos atnaujinimo procesas gali būti pristabdytas kol atkūrimas bus baigtas tam, kad galėtumėte nepertraukiamai mėgautis media turiniu. Dabar taip pat palaikomas konkretaus kelio iki vaizdo failų atnaujinimas ir muzikos/vaizdo bibliotekų valymas."
+msgstr "Tai MrMC paslauga, kuri atnaujins jūsų muzikos ir vaizdo bibliotekas nurodytu laiku. Jūs galite nurodyti skirtingus laiko intervalus media duomenų bazių skenavimui (garso, vaizdo, abiejų) arba galite nustatyti 'Cron' stiliaus laikmatį geresnei kontrolei. Jei laikmatis suveikia tuo metu, kai atkuriamas garso ar vaizdo failas, bibliotekos atnaujinimo procesas gali būti pristabdytas kol atkūrimas bus baigtas tam, kad galėtumėte nepertraukiamai mėgautis media turiniu. Dabar taip pat palaikomas konkretaus kelio iki vaizdo failų atnaujinimas ir muzikos/vaizdo bibliotekų valymas."
 
 msgctxt "#30000"
-msgid "Kodi Library Auto Update"
-msgstr "Kodi bibliotekos automatinis atnaujinimas"
+msgid "MrMC Library Auto Update"
+msgstr "MrMC bibliotekos automatinis atnaujinimas"
 
 msgctxt "#30001"
 msgid "General"

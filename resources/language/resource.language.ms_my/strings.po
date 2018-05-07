@@ -1,4 +1,4 @@
-# Kodi Media Center language file
+# MrMC Media Center language file
 # Addon Name: XBMC Library Auto Update
 # Addon id: service.libraryautoupdate
 # Addon Provider: robweber
@@ -20,24 +20,24 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid ""
-"Update your Kodi Video and Music Libraries on a timer. Timer runs as an Kodi"
+"Update your MrMC Video and Music Libraries on a timer. Timer runs as a MrMC"
 " service so you never miss an update."
-msgstr "Kemaskini perpustakaan Video dan Muzik Kodi anda menggunakan pemasa. Pemasa adalah perkhidmatan Kodi supaya anda tidak akan terlepas sebarang pengemaskinian"
+msgstr "Kemaskini perpustakaan Video dan Muzik MrMC anda menggunakan pemasa. Pemasa adalah perkhidmatan MrMC supaya anda tidak akan terlepas sebarang pengemaskinian"
 
 msgctxt "Addon Description"
 msgid ""
-"This is an Kodi Service that will update your music and video libraries on a"
+"This is a MrMC Service that will update your music and video libraries on a"
 " timer. You can select a different interval to scan your media databases "
 "(Audio,Video,Both) or you can set a cron-style timer for greater control. If"
 " you are playing an audio or video file when the timer starts it can skip "
 "the library update process until it is completed so that you're media "
 "experience is not interrupted. Updating a specific Video Path, and Cleaning "
 "the Music/Video libraries is now supported."
-msgstr "Ini adalah satu Perkhidmatan Kodi yang akan mengemas kini perpustakaan muzik dan video anda menggunakan pemasa. Anda boleh memilih jarak yang berbeza untuk mengimbas pangkalan data media anda (Audio, Video, kedua-dua) atau anda boleh menetapkan pemasa gaya cron untuk lebih kawalan. Jika anda sedang memainkan fail audio atau video apabila pemasa bermula, ia boleh melangkau proses kemas kini perpustakaan sehingga anda selesai supaya pengalaman media anda tidak terganggu. Mengemaskini Video Path khusus, dan Membersihkan perpustakaan Muzik / Video kini disokong."
+msgstr "Ini adalah satu Perkhidmatan MrMC yang akan mengemas kini perpustakaan muzik dan video anda menggunakan pemasa. Anda boleh memilih jarak yang berbeza untuk mengimbas pangkalan data media anda (Audio, Video, kedua-dua) atau anda boleh menetapkan pemasa gaya cron untuk lebih kawalan. Jika anda sedang memainkan fail audio atau video apabila pemasa bermula, ia boleh melangkau proses kemas kini perpustakaan sehingga anda selesai supaya pengalaman media anda tidak terganggu. Mengemaskini Video Path khusus, dan Membersihkan perpustakaan Muzik / Video kini disokong."
 
 msgctxt "#30000"
-msgid "Kodi Library Auto Update"
-msgstr "Kemaskini Automatik Perpustakaan Kodi"
+msgid "MrMC Library Auto Update"
+msgstr "Kemaskini Automatik Perpustakaan MrMC"
 
 msgctxt "#30001"
 msgid "General"

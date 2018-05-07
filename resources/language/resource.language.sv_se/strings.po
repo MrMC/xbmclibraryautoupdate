@@ -1,4 +1,4 @@
-# Kodi Media Center language file
+# MrMC Media Center language file
 # Addon Name: XBMC Library Auto Update
 # Addon id: service.libraryautoupdate
 # Addon Provider: robweber
@@ -21,24 +21,24 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid ""
-"Update your Kodi Video and Music Libraries on a timer. Timer runs as an Kodi"
+"Update your MrMC Video and Music Libraries on a timer. Timer runs as a MrMC"
 " service so you never miss an update."
-msgstr "Uppdatera ditt Kodi video och musikbibliotek schemalagt. Schemaläggaren körs som en Kodi-service så du aldrig missar en uppdatering."
+msgstr "Uppdatera ditt MrMC video och musikbibliotek schemalagt. Schemaläggaren körs som en MrMC-service så du aldrig missar en uppdatering."
 
 msgctxt "Addon Description"
 msgid ""
-"This is an Kodi Service that will update your music and video libraries on a"
+"This is a MrMC Service that will update your music and video libraries on a"
 " timer. You can select a different interval to scan your media databases "
 "(Audio,Video,Both) or you can set a cron-style timer for greater control. If"
 " you are playing an audio or video file when the timer starts it can skip "
 "the library update process until it is completed so that you're media "
 "experience is not interrupted. Updating a specific Video Path, and Cleaning "
 "the Music/Video libraries is now supported."
-msgstr "Detta är en Kodi-service som schemalagt kommer att uppdatera ditt musik och videobibliotek. Du kan välja olika intervall att skanna dina mediadatabaser (Musik,Video,Båda) eller så kan du ange ett cron-inspirerad schemaläggare för bättre kontroll. Om du spelare en musik eller videofil när schemaläggaren startar, kan det hoppa över biblioteksuppdateringen till uppspelningen är klar så mediaupplevelsen inte avbryts. Uppdatering av en specifik videosökväg och rensning av musik/videobiblioteken stödjs nu."
+msgstr "Detta är en MrMC-service som schemalagt kommer att uppdatera ditt musik och videobibliotek. Du kan välja olika intervall att skanna dina mediadatabaser (Musik,Video,Båda) eller så kan du ange ett cron-inspirerad schemaläggare för bättre kontroll. Om du spelare en musik eller videofil när schemaläggaren startar, kan det hoppa över biblioteksuppdateringen till uppspelningen är klar så mediaupplevelsen inte avbryts. Uppdatering av en specifik videosökväg och rensning av musik/videobiblioteken stödjs nu."
 
 msgctxt "#30000"
-msgid "Kodi Library Auto Update"
-msgstr "Kodi biblioteksautouppdaterare"
+msgid "MrMC Library Auto Update"
+msgstr "MrMC biblioteksautouppdaterare"
 
 msgctxt "#30001"
 msgid "General"

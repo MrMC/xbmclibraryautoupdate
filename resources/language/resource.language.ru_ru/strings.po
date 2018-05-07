@@ -1,4 +1,4 @@
-# Kodi Media Center language file
+# MrMC Media Center language file
 # Addon Name: XBMC Library Auto Update
 # Addon id: service.libraryautoupdate
 # Addon Provider: robweber
@@ -22,13 +22,13 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid ""
-"Update your Kodi Video and Music Libraries on a timer. Timer runs as an Kodi"
+"Update your MrMC Video and Music Libraries on a timer. Timer runs as a MrMC"
 " service so you never miss an update."
-msgstr "Обновляет вашу медиатеку по таймеру. Таймер работает как сервис Kodi, поэтому вы никогда не забудете об обновлении."
+msgstr "Обновляет вашу медиатеку по таймеру. Таймер работает как сервис MrMC, поэтому вы никогда не забудете об обновлении."
 
 msgctxt "Addon Description"
 msgid ""
-"This is an Kodi Service that will update your music and video libraries on a"
+"This is a MrMC Service that will update your music and video libraries on a"
 " timer. You can select a different interval to scan your media databases "
 "(Audio,Video,Both) or you can set a cron-style timer for greater control. If"
 " you are playing an audio or video file when the timer starts it can skip "
@@ -38,8 +38,8 @@ msgid ""
 msgstr "Это сервис, который обновляет вашу медиатеку по таймеру. Вы можете выбрать разные периоды для сканирования  ваших баз (Аудио, Видео, и то и то) или установить таймер по-времени для большего контроля. Если запущено проигрывание аудио или видео файла, когда срабатывает таймер, он может отменить процесс обновления до тех пор, пока Вы не закончите прослушивание или просмотр чего-либо. \nВыборочное обновление папок с Видео, очистка медиатеки теперь также поддерживается."
 
 msgctxt "#30000"
-msgid "Kodi Library Auto Update"
-msgstr "Авто-обновление медиатеки Kodi"
+msgid "MrMC Library Auto Update"
+msgstr "Авто-обновление медиатеки MrMC"
 
 msgctxt "#30001"
 msgid "General"

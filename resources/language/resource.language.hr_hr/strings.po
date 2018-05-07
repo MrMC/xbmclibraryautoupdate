@@ -1,4 +1,4 @@
-# Kodi Media Center language file
+# MrMC Media Center language file
 # Addon Name: XBMC Library Auto Update
 # Addon id: service.libraryautoupdate
 # Addon Provider: robweber
@@ -21,24 +21,24 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid ""
-"Update your Kodi Video and Music Libraries on a timer. Timer runs as an Kodi"
+"Update your MrMC Video and Music Libraries on a timer. Timer runs as a MrMC"
 " service so you never miss an update."
-msgstr "Ažurirajte svoju ​​Kodi Videoteku i Fonoteku u zakazano vrijeme. Zakazano vrijeme radi kao Kodi usluga, tako da nikada nećete propustiti ažuriranje."
+msgstr "Ažurirajte svoju ​​MrMC Videoteku i Fonoteku u zakazano vrijeme. Zakazano vrijeme radi kao MrMC usluga, tako da nikada nećete propustiti ažuriranje."
 
 msgctxt "Addon Description"
 msgid ""
-"This is an Kodi Service that will update your music and video libraries on a"
+"This is a MrMC Service that will update your music and video libraries on a"
 " timer. You can select a different interval to scan your media databases "
 "(Audio,Video,Both) or you can set a cron-style timer for greater control. If"
 " you are playing an audio or video file when the timer starts it can skip "
 "the library update process until it is completed so that you're media "
 "experience is not interrupted. Updating a specific Video Path, and Cleaning "
 "the Music/Video libraries is now supported."
-msgstr "Ovo je Kodi usluga koja će ažurirati vašu Fonoteku i Videoteku u zakazano vrijeme. Možete odabrati neko drugo razdoblje pretraživanja vaše medijske baze podataka (glazba, video, obadvoje) ili možete postaviti cron-stil zakazano vrijeme za veću kontrolu. Ako se reproducira glazba ili video datoteka kada se zakazano vrijeme pokrene, ažuriranje ne započinje dok reprodukcija ne završi zato da se reprodukcija medija ne prekida. Ažuriranje određene Video putanje, i čišćenje Fonoteke i Videoteke sada je podržano."
+msgstr "Ovo je MrMC usluga koja će ažurirati vašu Fonoteku i Videoteku u zakazano vrijeme. Možete odabrati neko drugo razdoblje pretraživanja vaše medijske baze podataka (glazba, video, obadvoje) ili možete postaviti cron-stil zakazano vrijeme za veću kontrolu. Ako se reproducira glazba ili video datoteka kada se zakazano vrijeme pokrene, ažuriranje ne započinje dok reprodukcija ne završi zato da se reprodukcija medija ne prekida. Ažuriranje određene Video putanje, i čišćenje Fonoteke i Videoteke sada je podržano."
 
 msgctxt "#30000"
-msgid "Kodi Library Auto Update"
-msgstr "Kodi automatsko ažuriranje zbirke"
+msgid "MrMC Library Auto Update"
+msgstr "MrMC automatsko ažuriranje zbirke"
 
 msgctxt "#30001"
 msgid "General"
